@@ -8,4 +8,5 @@ middleman server or middleman build
 middleman article 'TITLE'
 
 #Deploy
+middleman build
 middleman deploy

@@ -3,7 +3,7 @@ title: The Art of Small Talk with Dave Wiskus
 date: 2015-02-08 00:30 UTC
 author: Scott
 layout: video_layout
-youtube_id: gGWLZu1-SdQ
+youtube_id: 4bJ1UJDZBs4
 intro: Have you ever been at a loss for words in a conversation? Dave Wiskus shares how he approaches making small talk on the fly as a host of the Unprofessional podcast. It's an interview podcast where any topic is on the table except for talking about work.
 quote: How can I make you seem more interesting?
 tags: podcast
